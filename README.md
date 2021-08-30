@@ -1,3 +1,2 @@
-# Tarea-1-2
-Trabajo de Berlin y Mateo
-Prueba 2 de pull request
+#ProyectoConjunto_PRECIADO_VEREA
+Trabajo de Berlin Isabel Preciado y Mateo Verea
